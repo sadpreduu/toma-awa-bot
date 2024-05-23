@@ -1,0 +1,30 @@
+# Ignore o arquivo .env
+.env
+
+# Diretórios do ambiente virtual
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.so
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+
+# Arquivos de cache e temporários
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Arquivos de banco de dados SQLite
+*.db
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
